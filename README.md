@@ -1,2 +1,3 @@
-# pythonOOP_course_enrolment_application
+# Course Enrolment Application
+
 A  CLI  course enrolment application using  OOP principles in Python
